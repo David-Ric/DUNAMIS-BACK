@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dunamis-API.props" />
+</Project>
